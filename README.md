@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Java</p>
+<p align="left">📚 Atualmente estou aprendendo Java</p>
 
 ###
 

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Gabriel Thiago and  moro em São Paulo, Sumaré!</p>
+<p align="left">Meu nome é Gabriel Thiago e atualmente moro em São Paulo, Sumaré!</p>
 
 ###
 
